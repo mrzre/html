@@ -1,0 +1,100 @@
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/391efd74-1085-4214-ae2d-55ba1c2ea94d_carw_1x1x32.JPG?h=bcc5c9d9daae82d58141c7ba5f254a22
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\391efd74-1085-4214-ae2d-55ba1c2ea94d_carw_1x1x32.JPG
+Content Type: image/jpeg
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/54b859380f2ffdd8fe5cf322be7a01971654602264.css?h=31166a87a9f23ca77b00d65690a03af4
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\54b859380f2ffdd8fe5cf322be7a01971654602264.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/592db68bb6d27c862aaa6b784d263a5f1654602264.css?h=32da65831915ebde2eb3bc1908639097
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\592db68bb6d27c862aaa6b784d263a5f1654602264.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/8764d691-8609-4bb9-bf9c-6a2e49e0a8e5_rwc_0x0x3351x2689x4096.jpg?h=6639b7b4c1f515e1e058715d8e2b2858
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\8764d691-8609-4bb9-bf9c-6a2e49e0a8e5_rwc_0x0x3351x2689x4096.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/924af819a52efa0c98a63a6fa5742acf1654602264.css?h=ae178ff018fa77d4628caf4219fa5cba
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\924af819a52efa0c98a63a6fa5742acf1654602264.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/9bc244f4b41e3beb03270cd8706a32b01654602264.css?h=bbc2af6d35c93bd3b2c1c9d39fd88792
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\9bc244f4b41e3beb03270cd8706a32b01654602264.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/a13e1075307a2323db95f6b1a7db32a41654602264.css?h=51c7395b32184b2630cef5e5592bd904
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\a13e1075307a2323db95f6b1a7db32a41654602264.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/bf72fc9d67cc02a726d3f7587a8c7a821654602264.css?h=c4874c01f35941165eb9479bfed16fc0
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\bf72fc9d67cc02a726d3f7587a8c7a821654602264.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/28218d5c-5201-4ec7-84df-669c5c0c9931/fd327ca0-7b27-4bbd-b38b-e152703ce0ed_carw_1x1x180.jpg?h=ad454dbce6dd8944190185332b090102
+File Name: C:\Downloaded Web Sites\mrzdraws.com\28218d5c-5201-4ec7-84df-669c5c0c9931\fd327ca0-7b27-4bbd-b38b-e152703ce0ed_carw_1x1x180.jpg
+Content Type: image/jpeg
+
+Uri: https://mrzdraws.com/
+File Name: C:\Downloaded Web Sites\mrzdraws.com\index.htm
+Content Type: text/html
+
+Uri: https://mrzdraws.com/contact
+File Name: C:\Downloaded Web Sites\mrzdraws.com\contact.html
+Content Type: text/html
+
+Uri: https://mrzdraws.com/dist/css/main.css
+File Name: C:\Downloaded Web Sites\mrzdraws.com\dist\css\main.css
+Content Type: text/css
+
+Uri: https://mrzdraws.com/dist/js/main.js?cb=1f81a2f668f6077716c7aaad295d94bee95c90bb
+File Name: C:\Downloaded Web Sites\mrzdraws.com\dist\js\main-2.js
+Content Type: application/javascript
+
+Uri: https://mrzdraws.com/dist/js/main.js?cb=3d952059082ae6ff7df21dae137e18c22c96e17f
+File Name: C:\Downloaded Web Sites\mrzdraws.com\dist\js\main.js
+Content Type: application/javascript
+
+Uri: https://mrzdraws.com/dist/js/main.js?cb=d6bf889fa22087bba74177ce4553667c1cd167f9
+File Name: C:\Downloaded Web Sites\mrzdraws.com\dist\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://mrzdraws.com/home
+File Name: C:\Downloaded Web Sites\mrzdraws.com\home.html
+Content Type: text/html
+
+Uri: https://mrzdraws.com/inktober
+File Name: C:\Downloaded Web Sites\mrzdraws.com\inktober.html
+Content Type: text/html
+
+Uri: https://mrzdraws.com/paintings
+File Name: C:\Downloaded Web Sites\mrzdraws.com\paintings.html
+Content Type: text/html
+
+Uri: https://mrzdraws.com/portraits
+File Name: C:\Downloaded Web Sites\mrzdraws.com\portraits.html
+Content Type: text/html
+
+Uri: https://mrzdraws.com/site/translations?cb=1f81a2f668f6077716c7aaad295d94bee95c90bb
+File Name: C:\Downloaded Web Sites\mrzdraws.com\site\translations-2
+Content Type: application/javascript
+
+Uri: https://mrzdraws.com/site/translations?cb=3d952059082ae6ff7df21dae137e18c22c96e17f
+File Name: C:\Downloaded Web Sites\mrzdraws.com\site\translations
+Content Type: application/javascript
+
+Uri: https://mrzdraws.com/site/translations?cb=d6bf889fa22087bba74177ce4553667c1cd167f9
+File Name: C:\Downloaded Web Sites\mrzdraws.com\site\translations-1
+Content Type: application/javascript
+
+Uri: https://mrzdraws.com/study
+File Name: C:\Downloaded Web Sites\mrzdraws.com\study.html
+Content Type: text/html
+
+Uri: https://use.typekit.net/ik/zKpdvTVLUkdtmvVD7GphDN-I_5G4PzIMAFD28qHCOMMfe7IffHYEBsJzwD9oFDIDWhJDFcZKjhmcjRZRjQ6o5Q9uFcJawQqXFAJojR4cjDSu5Q9tjhwtZAJ-yMI7OcukpcskjWiDOcFzdP37OcuoSeNkieZzde8zOcFzdP37O1gkdDJlic88ikolpWgzS1scdhUTdkoRdhXCdW4EZY4yiaw0jhNlOeuoSeNkieZzde8zOcFzdPU3ScvkOWZTZWS0dW83da4XZcNC-Av0jhNlOYiaikolS1TqScBaSkoRdhXKgeFCj1qKgeZXdcC7f6KCXMIbMg62JMJ7f6KnXMIbMg6IJMJ7f6KTXMIbMg6eJMJ7f6KcXMIbMg6YJMJ7f6K1XMIbMg6JJMJ7fbKImsMgeMb6MKG4fJBmIMIjgkMfqMeQGznhgb.js?cb=1f81a2f668f6077716c7aaad295d94bee95c90bb
+File Name: C:\Downloaded Web Sites\mrzdraws.com\ik\zKpdvTVLUkdtmvVD7GphDN-I_5G4PzIMAFD28qHCOMMfe7IffHYEBsJzwD9oFDIDWhJDFcZKjhmcjRZRjQ6o5Q9uFcJawQqXFAJojR4cjDSu5Q9tjhwtZAJ-yMI7OcukpcskjWiDOcFzdP37OcuoSeNkieZzde8zOcFzdP37O1gkdDJlic88ikolpWgzS1scdhUTdkoRdhXCdW4EZY4yi-1.js
+Content Type: text/javascript
+
+Uri: https://use.typekit.net/ik/zKpdvTVLUkdtmvVD7GphDN-I_5G4PzIMAFD28qHCOMMfe7IffHYEBsJzwD9oFDIDWhJDFcZKjhmcjRZRjQ6o5Q9uFcJawQqXFAJojR4cjDSu5Q9tjhwtZAJ-yMI7OcukpcskjWiDOcFzdP37OcuoSeNkieZzde8zOcFzdP37O1gkdDJlic88ikolpWgzS1scdhUTdkoRdhXCdW4EZY4yiaw0jhNlOeuoSeNkieZzde8zOcFzdPU3ScvkOWZTZWS0dW83da4XZcNC-Av0jhNlOYiaikolS1TqScBaSkoRdhXKgeFCj1qKgeZXdcC7f6KCXMIbMg62JMJ7f6KnXMIbMg6IJMJ7f6KTXMIbMg6eJMJ7f6KcXMIbMg6YJMJ7f6K1XMIbMg6JJMJ7fbKImsMgeMb6MKG4fJBmIMIjgkMfqMeQGznhgb.js?cb=d6bf889fa22087bba74177ce4553667c1cd167f9
+File Name: C:\Downloaded Web Sites\mrzdraws.com\ik\zKpdvTVLUkdtmvVD7GphDN-I_5G4PzIMAFD28qHCOMMfe7IffHYEBsJzwD9oFDIDWhJDFcZKjhmcjRZRjQ6o5Q9uFcJawQqXFAJojR4cjDSu5Q9tjhwtZAJ-yMI7OcukpcskjWiDOcFzdP37OcuoSeNkieZzde8zOcFzdP37O1gkdDJlic88ikolpWgzS1scdhUTdkoRdhXCdW4EZY4yiaw.js
+Content Type: text/javascript
+
